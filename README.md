@@ -175,17 +175,6 @@ You may share and adapt the data for **non-commercial** purposes, with **attribu
 See [`LICENSE`](LICENSE) for the full legal code, and [SCHEMA.md](SCHEMA.md) for how to
 attribute. For commercial licensing, contact the author.
 
----
-
-## Credits
-
-Conceived and directed by **Daniel Koehler**. The pipeline was run by AI systems:
-
-- **GNoME** (Google DeepMind) — discovery of the underlying stable crystal structures.
-- **GPT-4o / GPT-4o-mini** (OpenAI) — the first architectural filtering and synthesis-recipe drafting.
-- **Claude** (Anthropic, Opus 4.8 + Sonnet, via Claude Code) — re-scoring, architectural
-  filtering, recipe rewriting, and the assembly of this dataset.
-
 The project began in 2023 in the *Architecture Computation* seminar; **Catherine Graubard**
 deepened it in her master's thesis and co-authored the founding ACADIA paper. With thanks to
 the GNoME team at Google DeepMind for releasing the corpus on which all of this stands.
