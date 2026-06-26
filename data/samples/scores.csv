@@ -1,0 +1,201 @@
+id,formula,material_system,is_metallic,dimensionality,db_temperature_c,corrected_temp_min_c,corrected_temp_max_c,temp_correction_note,score_sustainability,score_structural,score_sensory,score_novelty,score_recipe_confidence,score_composite,architectural_categories
+Cs1S6Zr3,Cs1S6Zr3,sulfide,False,intercalated ion,1000,150,800,too high: 1000C → suggest 150-800C,7.82,9.0,3.0,5.5,8.0,6.78,metallic/tension; sulfide/lightweight
+B24Na1Nd2Pr1,B24Na1Nd2Pr1,metallic-other,True,intercalated ion,1200,800,1300,,5.64,9.0,5.0,5.5,8.0,6.64,metallic/tension; luminescent
+Er8Ge4Si12Zr12,Er8Ge4Si12Zr12,metallic-other,True,3D,1500,800,1300,,5.33,6.0,7.0,4.0,8.0,6.13,translucent-potential; luminescent
+Bi1Er8Ni5Y4,Bi1Er8Ni5Y4,iron-alloy,True,3D,1200,1200,1500,,3.54,9.0,5.0,3.5,8.0,5.81,metallic/tension; luminescent
+Bi1Sm1Sn15Tm19,Bi1Sm1Sn15Tm19,metallic-other,True,3D,950,800,1300,,4.48,6.0,3.0,4.0,8.0,5.12,[]
+Co4Ga1Gd4In1Tb8,Co4Ga1Gd4In1Tb8,iron-alloy,True,3D,1200,1200,1500,,3.08,6.0,5.0,7.0,8.0,5.62,luminescent; phase-change
+Er2P6Ru12Si1,Er2P6Ru12Si1,metallic-other,True,3D,1200,800,1300,,2.79,9.0,5.0,5.0,8.0,5.85,metallic/tension; luminescent
+As1Cu4Sc3Si1,As1Cu4Sc3Si1,copper-alloy,True,,0,950,1100,,4.67,6.0,3.0,5.0,8.0,5.32,[]
+Cd4Co1Ni3Tb4Y12,Cd4Co1Ni3Tb4Y12,iron-alloy,True,3D,900,1200,1500,too low: 900C → suggest 1200-1500C,3.25,9.0,5.0,7.0,8.0,6.26,metallic/tension; luminescent
+Ca4O16Ru3W1,Ca4O16Ru3W1,general-oxide,False,intercalated ion,800,800,1200,,5.85,8.0,3.0,5.5,8.0,6.09,metallic/tension; ceramic/compression
+Be2Co7Tm3,Be2Co7Tm3,iron-alloy,True,intercalated ion,1200,1200,1500,,3.44,9.0,3.0,7.0,8.0,5.91,metallic/tension
+B24Ca1Ru4Y7,B24Ca1Ru4Y7,metallic-other,True,intercalated ion,1200,800,1300,,5.04,9.0,3.0,5.5,8.0,6.09,metallic/tension
+B6Er4Mn2Pa1,B6Er4Mn2Pa1,metallic-other,True,3D,1200,800,1300,,4.83,9.0,5.0,5.0,8.0,6.36,metallic/tension; luminescent
+Ga4Li1Ru3Sm4,Ga4Li1Ru3Sm4,metallic-other,True,intercalated ion,1200,800,1300,,3.19,9.0,3.0,6.5,8.0,5.77,metallic/tension; phase-change
+Ag1Ga2In1Mg2Y3,Ag1Ga2In1Mg2Y3,metallic-other,True,3D,750,800,1300,,5.0,9.0,3.0,6.5,8.0,6.22,metallic/tension; phase-change
+Al2Cs4Ga2Ge4Se16,Al2Cs4Ga2Ge4Se16,aluminum-alloy,True,intercalated ion,800,660,900,,5.53,5.0,3.0,8.5,8.0,5.86,phase-change
+Co12Ni8P12Tb4,Co12Ni8P12Tb4,iron-alloy,True,3D,1200,1200,1500,,4.75,9.0,5.0,3.5,8.0,6.11,metallic/tension; luminescent
+Bi8Ga4Tb13Y7,Bi8Ga4Tb13Y7,metallic-other,True,3D,1200,800,1300,,4.3,9.0,5.0,4.0,8.0,6.07,metallic/tension; luminescent; phase-change
+B2Cu5Nd1Ni8Sr2,B2Cu5Nd1Ni8Sr2,copper-alloy,True,3D,1200,950,1100,,5.79,9.0,5.0,5.0,8.0,6.6,metallic/tension
+Nb8S16Zr2,Nb8S16Zr2,sulfide,False,,800,150,800,,7.9,6.0,3.0,4.0,8.0,5.97,sulfide/lightweight
+Ag5La1Zn7,Ag5La1Zn7,metallic-other,True,3D,850,800,1300,,5.12,6.0,3.0,3.5,8.0,5.2,[]
+Cu1Ge3La2Mg3Zn2,Cu1Ge3La2Mg3Zn2,copper-alloy,True,3D,800,950,1100,,5.49,9.0,3.0,5.5,8.0,6.2,metallic/tension
+Eu1Li4Nd3O16Sr8,Eu1Li4Nd3O16Sr8,rare-earth-oxide,False,intercalated ion,1000,900,1300,,5.82,9.0,8.0,7.5,8.0,7.58,metallic/tension; colored; luminescent
+Bi8P4Tm18Y2,Bi8P4Tm18Y2,metallic-other,True,,900,800,1300,,4.34,6.0,3.0,3.5,8.0,5.01,[]
+Ag3Er10In1Ni4Y6,Ag3Er10In1Ni4Y6,iron-alloy,True,3D,1200,1200,1500,,3.38,6.0,5.0,7.5,8.0,5.77,luminescent
+As1Ge2Nb4P1Zr4,As1Ge2Nb4P1Zr4,metallic-other,True,3D,1200,800,1300,,4.94,9.0,3.0,6.0,8.0,6.13,metallic/tension
+Ca1La6O3Si8Y3,Ca1La6O3Si8Y3,calcium-silicate,False,intercalated ion,1200,600,1200,,6.36,9.0,3.0,7.0,8.0,6.64,metallic/tension; ceramic/compression
+C6Cr11Mn9Mo2Si1,C6Cr11Mn9Mo2Si1,metallic-other,True,3D,1500,800,1300,,5.88,9.0,3.0,5.0,8.0,6.22,metallic/tension
+Al20Nd1Ru4Tm1,Al20Nd1Ru4Tm1,aluminum-alloy,True,3D,1200,660,900,too high: 1200C → suggest 660-900C,6.3,9.0,5.0,4.0,8.0,6.58,metallic/tension
+Cd6Li2Ru2Tb9Y9,Cd6Li2Ru2Tb9Y9,metallic-other,True,intercalated ion,1200,800,1300,,3.45,6.0,5.0,9.5,8.0,6.09,luminescent
+Cu2Er6Ge1Si5,Cu2Er6Ge1Si5,copper-alloy,True,3D,1250,950,1100,,5.03,9.0,5.0,4.0,8.0,6.26,metallic/tension; luminescent
+Be24Ce1Cu2Nd1,Be24Ce1Cu2Nd1,copper-alloy,True,intercalated ion,1200,950,1100,,1.92,9.0,5.0,5.5,8.0,5.71,metallic/tension
+Pa10Sb7Sn1,Pa10Sb7Sn1,metallic-other,True,3D,150,800,1300,too low: 150C → suggest 800-1300C,3.79,9.0,3.0,4.5,8.0,5.62,metallic/tension
+Gd2In6Nd1O18Pr3,Gd2In6Nd1O18Pr3,rare-earth-oxide,False,3D,1200,900,1300,,5.33,6.0,8.0,7.5,8.0,6.86,electronic/functional; colored; luminescent
+Co16Er5Li2P12Tm1,Co16Er5Li2P12Tm1,iron-alloy,True,intercalated ion,1200,1200,1500,,4.62,9.0,5.0,8.0,8.0,6.76,metallic/tension; luminescent
+Li4Nd3Si4Sn2Tm1,Li4Nd3Si4Sn2Tm1,metallic-other,True,intercalated ion,1200,800,1300,,5.64,9.0,5.0,7.5,8.0,6.94,metallic/tension
+Si6Tb8Tm2,Si6Tb8Tm2,metallic-other,True,3D,1400,800,1300,,4.62,9.0,5.0,5.0,8.0,6.31,metallic/tension; luminescent
+Li3Pr8Ru1Si12,Li3Pr8Ru1Si12,metallic-other,True,intercalated ion,1200,800,1300,,5.16,9.0,5.0,7.0,8.0,6.74,metallic/tension; luminescent
+Cu2Ru2Si4Tb2Tm2,Cu2Ru2Si4Tb2Tm2,copper-alloy,True,3D,1200,950,1100,,4.46,9.0,5.0,6.5,8.0,6.49,metallic/tension; luminescent
+Co5Er3In1Tm9,Co5Er3In1Tm9,iron-alloy,True,3D,1200,1200,1500,,3.17,6.0,5.0,4.5,8.0,5.27,luminescent
+Pb16Pr16Sm3Tm1,Pb16Pr16Sm3Tm1,metallic-other,True,,800,800,1300,,4.17,6.0,5.0,4.5,8.0,5.52,luminescent
+C12Fe2Nd6Ti2,C12Fe2Nd6Ti2,iron-alloy,True,3D,1200,1200,1500,,5.02,9.0,5.0,4.0,8.0,6.26,metallic/tension
+C18Fe12Y11,C18Fe12Y11,iron-alloy,True,3D,150,1200,1500,too low: 150C → suggest 1200-1500C,5.1,6.0,3.0,3.0,8.0,5.12,[]
+Er3Ru6Si10Tb1,Er3Ru6Si10Tb1,metallic-other,True,,1200,800,1300,,4.1,6.0,5.0,4.5,8.0,5.5,luminescent
+Ni6Sc1W1,Ni6Sc1W1,iron-alloy,True,3D,1500,1200,1500,,4.38,9.0,3.0,4.5,8.0,5.77,metallic/tension
+Bi9Er19Sb3Sc1,Bi9Er19Sb3Sc1,metallic-other,True,3D,800,800,1300,,4.06,9.0,5.0,4.0,8.0,6.02,metallic/tension; luminescent
+Co1Mo2Ti8,Co1Mo2Ti8,iron-alloy,True,3D,1200,1200,1500,,4.61,9.0,3.0,3.0,8.0,5.6,metallic/tension
+Be8C2Co3Mo12Ni1,Be8C2Co3Mo12Ni1,iron-alloy,True,intercalated ion,1000,1200,1500,,3.08,9.0,3.0,8.5,8.0,6.04,metallic/tension
+As4Nb3V4Zr1,As4Nb3V4Zr1,metallic-other,True,3D,1200,800,1300,,3.81,9.0,3.0,3.5,8.0,5.48,metallic/tension
+La4Si4Tb1Tm1,La4Si4Tb1Tm1,metallic-other,True,3D,1200,800,1300,,5.3,9.0,5.0,4.0,8.0,6.32,metallic/tension; luminescent
+Co6Ni12P12Sc6,Co6Ni12P12Sc6,iron-alloy,True,3D,1200,1200,1500,,4.62,9.0,3.0,3.5,8.0,5.68,metallic/tension
+Nd8Ru4Tm1Y1,Nd8Ru4Tm1Y1,metallic-other,True,3D,1200,800,1300,,3.61,9.0,5.0,4.0,8.0,5.9,metallic/tension
+Cs4Mg2Se8Ti2,Cs4Mg2Se8Ti2,metallic-other,True,intercalated ion,900,800,1300,,4.72,6.0,3.0,5.5,8.0,5.4,electronic/functional
+Cs4Ge4La1Nd3Se16,Cs4Ge4La1Nd3Se16,metallic-other,True,intercalated ion,900,800,1300,,4.57,5.0,5.0,8.0,8.0,5.94,electronic/functional
+La3Li4Pr1Si8,La3Li4Pr1Si8,metallic-other,True,intercalated ion,1200,800,1300,,5.84,9.0,5.0,5.5,8.0,6.69,metallic/tension; luminescent
+Bi4Co4Nd20Sn4,Bi4Co4Nd20Sn4,iron-alloy,True,3D,800,1200,1500,too low: 800C → suggest 1200-1500C,4.19,9.0,5.0,3.0,8.0,5.9,metallic/tension
+Al6Mo3Ru12Ti3,Al6Mo3Ru12Ti3,aluminum-alloy,True,3D,800,660,900,,4.12,9.0,3.0,3.5,8.0,5.55,metallic/tension
+Nd5Pr1Sn6Tm4,Nd5Pr1Sn6Tm4,metallic-other,True,3D,1200,800,1300,,4.81,9.0,5.0,4.0,8.0,6.2,metallic/tension; luminescent
+Cu14Ga12Sr2,Cu14Ga12Sr2,copper-alloy,True,,800,950,1100,,5.19,6.0,3.0,3.5,8.0,5.22,phase-change
+Bi4La1O14Y3,Bi4La1O14Y3,general-oxide,False,,800,800,1200,,6.12,6.0,3.0,3.0,8.0,5.38,[]
+In3Se25,In3Se25,metallic-other,True,1D,450,800,1300,too low: 450C → suggest 800-1300C,4.92,9.0,3.0,6.5,8.0,6.2,metallic/tension
+Ba2Fe4Mn8O24,Ba2Fe4Mn8O24,iron-oxide,False,intercalated ion,900,800,1200,,6.47,6.0,7.0,5.0,8.0,6.57,electronic/functional; colored; magnetic
+C1Mg1Sc3,C1Mg1Sc3,metallic-other,True,intercalated ion,800,800,1300,,4.7,9.0,3.0,5.5,8.0,6.0,metallic/tension
+Nd2O20Pr6Ti4,Nd2O20Pr6Ti4,rare-earth-oxide,False,,1200,900,1300,,5.58,8.0,8.0,3.5,8.0,6.72,ceramic/compression; colored; luminescent
+Cs12S14Sb4Se2,Cs12S14Sb4Se2,sulfide,False,intercalated ion,600,150,800,,6.73,6.0,3.0,5.5,8.0,5.91,electronic/functional; sulfide/lightweight
+C2Er1P2Ru4Y1,C2Er1P2Ru4Y1,metallic-other,True,3D,150,800,1300,too low: 150C → suggest 800-1300C,3.65,9.0,5.0,6.0,8.0,6.21,metallic/tension; luminescent
+La2Mo2Nd2O20Se4,La2Mo2Nd2O20Se4,rare-earth-oxide,False,3D,800,900,1300,,5.83,6.0,8.5,5.0,8.0,6.71,translucent-potential; electronic/functional; colored
+Ba4Ga4Ge1O14Si1,Ba4Ga4Ge1O14Si1,general-oxide,False,intercalated ion,1200,800,1200,,6.07,7.0,5.0,8.0,8.0,6.72,ceramic/compression; translucent-potential; electronic/functional; phase-change; IR-transparent
+P1Pb6S1Y10,P1Pb6S1Y10,sulfide,False,3D,800,150,800,,7.08,9.0,3.0,4.0,8.0,6.37,metallic/tension; sulfide/lightweight
+Mo12P1Sc8Si15,Mo12P1Sc8Si15,metallic-other,True,,1200,800,1300,,5.33,6.0,3.0,3.5,8.0,5.26,[]
+Nd20Sn14Te2,Nd20Sn14Te2,metallic-other,True,3D,1000,800,1300,,5.04,6.0,7.0,3.5,8.0,5.99,translucent-potential
+Er4Mn1Ni13,Er4Mn1Ni13,iron-alloy,True,3D,1100,1200,1500,,4.25,9.0,5.0,3.5,8.0,5.99,metallic/tension; luminescent
+La8Sn6Y2,La8Sn6Y2,metallic-other,True,3D,1000,800,1300,,5.28,9.0,3.0,3.0,8.0,5.77,metallic/tension
+La8Si16Sm4Tb8,La8Si16Sm4Tb8,metallic-other,True,3D,1200,800,1300,,5.17,9.0,5.0,4.0,8.0,6.29,metallic/tension; luminescent
+Cd1Nb9Se16,Cd1Nb9Se16,metallic-other,True,3D,800,800,1300,,4.86,9.0,3.0,4.5,8.0,5.89,metallic/tension
+P2Sn6Tm4Y6,P2Sn6Tm4Y6,metallic-other,True,3D,1200,800,1300,,5.08,6.0,3.0,4.5,8.0,5.35,[]
+Ba3O9Tm3Y1,Ba3O9Tm3Y1,general-oxide,False,,800,800,1200,,5.87,6.0,3.0,4.5,8.0,5.54,[]
+Ba3La1O24Sr4Ti8,Ba3La1O24Sr4Ti8,perovskite-BaTiO3,False,intercalated ion,1200,1100,1350,,5.6,9.0,4.0,7.0,8.0,6.65,metallic/tension; ceramic/compression; piezoelectric
+Ni16P12Pr6Sc2,Ni16P12Pr6Sc2,iron-alloy,True,3D,1200,1200,1500,,4.5,6.0,5.0,4.0,8.0,5.53,luminescent
+Fe6Mn11P12Tb4Ti3,Fe6Mn11P12Tb4Ti3,iron-alloy,True,3D,1200,1200,1500,,4.88,6.0,7.0,5.5,8.0,6.24,translucent-potential; luminescent
+Bi2Ce2Co2Sb2,Bi2Ce2Co2Sb2,iron-alloy,True,3D,1000,1200,1500,,4.19,9.0,3.0,3.0,8.0,5.5,metallic/tension
+Cu2K1Sb2Tb1,Cu2K1Sb2Tb1,copper-alloy,True,intercalated ion,1200,950,1100,,5.33,9.0,5.0,6.5,8.0,6.71,metallic/tension; luminescent
+La6Nd8Ni6,La6Nd8Ni6,iron-alloy,True,3D,1200,1200,1500,,4.22,9.0,5.0,3.0,8.0,5.91,metallic/tension
+In6Ni20P6Sn4,In6Ni20P6Sn4,iron-alloy,True,3D,300,1200,1500,too low: 300C → suggest 1200-1500C,4.62,9.0,3.0,3.5,8.0,5.68,metallic/tension
+B4Co9Si2Tm3,B4Co9Si2Tm3,iron-alloy,True,3D,1500,1200,1500,,4.46,9.0,3.0,4.5,8.0,5.79,metallic/tension
+Cu4Ga4Pa1Tb1,Cu4Ga4Pa1Tb1,copper-alloy,True,3D,800,950,1100,,4.71,9.0,5.0,4.5,8.0,6.25,metallic/tension; luminescent; phase-change
+Na3Pr5Te8,Na3Pr5Te8,metallic-other,True,intercalated ion,800,800,1300,,2.56,9.0,5.0,7.0,8.0,6.09,metallic/tension; luminescent
+O13Pb4W3Y1,O13Pb4W3Y1,general-oxide,False,,1200,800,1200,,6.1,6.0,3.0,4.0,8.0,5.52,[]
+Fe7Ni13P13Zr6,Fe7Ni13P13Zr6,iron-alloy,True,3D,1200,1200,1500,,5.13,6.0,5.0,3.0,8.0,5.53,translucent-potential
+Al19Ca1Ru4Si1Tb1,Al19Ca1Ru4Si1Tb1,aluminum-alloy,True,intercalated ion,950,660,900,,6.36,9.0,5.0,8.0,8.0,7.19,metallic/tension; luminescent
+K2O12W4,K2O12W4,general-oxide,False,intercalated ion,200,800,1200,too low: 200C → suggest 800-1200C,6.33,6.0,3.0,5.0,8.0,5.73,electronic/functional
+Co1Ni1Pb4Ti8,Co1Ni1Pb4Ti8,iron-alloy,True,3D,1200,1200,1500,,4.54,9.0,3.0,3.0,8.0,5.58,metallic/tension
+Er1Li4O16Si4Y3,Er1Li4O16Si4Y3,rare-earth-oxide,False,intercalated ion,1000,900,1300,,5.96,8.0,8.5,7.5,8.0,7.51,ceramic/compression; translucent-potential; colored; luminescent
+Ba3Mn4Ni2P6,Ba3Mn4Ni2P6,iron-alloy,True,intercalated ion,900,1200,1500,too low: 900C → suggest 1200-1500C,5.05,6.0,3.0,5.0,8.0,5.41,[]
+Ga3Ru4Si1Tb3Tm1,Ga3Ru4Si1Tb3Tm1,metallic-other,True,3D,1000,800,1300,,2.94,6.0,5.0,7.0,8.0,5.58,luminescent; phase-change
+Bi6O14Tb2,Bi6O14Tb2,rare-earth-oxide,False,3D,800,900,1300,,5.65,6.0,6.5,3.5,8.0,6.04,electronic/functional; colored; luminescent
+Ba6Nb7O21,Ba6Nb7O21,general-oxide,False,intercalated ion,1200,800,1200,,6.23,9.0,3.0,6.0,8.0,6.46,metallic/tension
+Si2Te26W4,Si2Te26W4,metallic-other,True,2D,800,800,1300,,1.5,6.0,3.0,5.5,8.0,4.6,[]
+Bi4Ca10Pb2,Bi4Ca10Pb2,metallic-other,True,intercalated ion,900,800,1300,,5.94,9.0,3.0,5.0,8.0,6.23,metallic/tension
+Ca4La4Ru4Y2,Ca4La4Ru4Y2,metallic-other,True,intercalated ion,1200,800,1300,,4.14,9.0,3.0,5.5,8.0,5.86,metallic/tension
+Cu1Ni3Y4,Cu1Ni3Y4,copper-alloy,True,3D,1200,950,1100,,5.46,9.0,3.0,3.0,8.0,5.81,metallic/tension
+Er9In2Sb4Tb1,Er9In2Sb4Tb1,metallic-other,True,3D,1200,800,1300,,3.97,9.0,5.0,4.5,8.0,6.07,metallic/tension; luminescent
+Nb2O24P6V2,Nb2O24P6V2,general-oxide,False,,900,800,1200,,6.49,6.0,4.5,3.0,8.0,5.77,[]
+Co1Ga4Ni1Tm2,Co1Ga4Ni1Tm2,iron-alloy,True,3D,1100,1200,1500,,3.44,9.0,3.0,4.0,8.0,5.46,metallic/tension; phase-change
+B4Co4Mo3W1,B4Co4Mo3W1,iron-alloy,True,,1500,1200,1500,,4.5,6.0,3.0,3.0,8.0,4.97,[]
+Be8C2Co4Mo2W10,Be8C2Co4Mo2W10,iron-alloy,True,intercalated ion,1400,1200,1500,,3.08,6.0,3.0,7.5,8.0,5.29,[]
+As1Pr18Si15Sm2,As1Pr18Si15Sm2,metallic-other,True,3D,1000,800,1300,,4.69,9.0,5.0,4.5,8.0,6.25,metallic/tension; luminescent
+Ag2Cd21P1Pr6,Ag2Cd21P1Pr6,metallic-other,True,3D,800,800,1300,,2.07,9.0,5.0,4.5,8.0,5.59,metallic/tension; luminescent
+Er2Ga3Ge1Pr4,Er2Ga3Ge1Pr4,metallic-other,True,3D,1200,800,1300,,3.8,9.0,5.0,5.0,8.0,6.1,metallic/tension; luminescent; phase-change
+Fe2P12Ru17Y5,Fe2P12Ru17Y5,iron-alloy,True,3D,1200,1200,1500,,2.46,9.0,3.0,3.5,8.0,5.14,metallic/tension
+Pa6Sb3Sn7Zr2,Pa6Sb3Sn7Zr2,metallic-other,True,3D,240,800,1300,too low: 240C → suggest 800-1300C,4.62,9.0,3.0,3.5,8.0,5.68,metallic/tension
+As1Er20Si15,As1Er20Si15,metallic-other,True,3D,150,800,1300,too low: 150C → suggest 800-1300C,4.69,9.0,5.0,4.0,8.0,6.17,metallic/tension; luminescent
+Er12Pb16Sm7Tb1,Er12Pb16Sm7Tb1,metallic-other,True,3D,1200,800,1300,,4.17,6.0,7.0,4.5,8.0,5.92,translucent-potential; luminescent
+Er5Ni4Tb3Tm4,Er5Ni4Tb3Tm4,iron-alloy,True,3D,1200,1200,1500,,3.06,9.0,5.0,4.5,8.0,5.84,metallic/tension; luminescent
+Eu2In1O1Pr1,Eu2In1O1Pr1,rare-earth-oxide,False,3D,900,900,1300,,4.08,9.0,8.0,4.5,8.0,6.7,metallic/tension; colored; luminescent
+Mo12Si16Sr1Tm7,Mo12Si16Sr1Tm7,metallic-other,True,,1200,800,1300,,5.4,6.0,3.0,3.5,8.0,5.27,[]
+Al1Li3Pr3Sb2,Al1Li3Pr3Sb2,aluminum-alloy,True,intercalated ion,800,660,900,,5.82,6.0,5.0,6.5,8.0,6.23,luminescent
+Ca6Li16Pb8,Ca6Li16Pb8,metallic-other,True,intercalated ion,800,800,1300,,5.7,6.0,3.0,5.0,8.0,5.58,[]
+B4Mn1Nb5Ru9Ti1,B4Mn1Nb5Ru9Ti1,metallic-other,True,3D,1500,800,1300,,3.2,9.0,3.0,5.5,8.0,5.62,metallic/tension
+Co16Sc4Si12V4,Co16Sc4Si12V4,iron-alloy,True,3D,1300,1200,1500,,4.67,9.0,3.0,3.5,8.0,5.69,metallic/tension
+As6Co16Nb2P6Zr6,As6Co16Nb2P6Zr6,iron-alloy,True,3D,1200,1200,1500,,4.08,9.0,3.0,5.5,8.0,5.85,metallic/tension
+B16Ge2Si2Tm2Y8,B16Ge2Si2Tm2Y8,metallic-other,True,3D,1200,800,1300,,5.35,9.0,3.0,6.0,8.0,6.24,metallic/tension
+Er1Gd1Nd2O18Se6,Er1Gd1Nd2O18Se6,rare-earth-oxide,False,3D,900,900,1300,,5.69,6.0,8.0,6.0,8.0,6.72,colored; luminescent
+Pa2Te8,Pa2Te8,metallic-other,True,3D,800,800,1300,,1.5,9.0,3.0,5.0,8.0,5.12,metallic/tension
+Ag1Nd20Si15,Ag1Nd20Si15,metallic-other,True,3D,1200,800,1300,,5.6,6.0,5.0,3.5,8.0,5.73,[]
+Li8Sb2Sn6Y8,Li8Sb2Sn6Y8,metallic-other,True,intercalated ion,800,800,1300,,5.44,9.0,3.0,5.0,8.0,6.11,metallic/tension
+Eu6O14Pb2,Eu6O14Pb2,rare-earth-oxide,False,3D,800,900,1300,,5.38,9.0,6.5,3.5,8.0,6.57,metallic/tension; colored; luminescent
+Co4Er10Ru1Sn1Tm2,Co4Er10Ru1Sn1Tm2,iron-alloy,True,3D,1200,1200,1500,,2.96,9.0,5.0,6.5,8.0,6.11,metallic/tension; luminescent
+O10P2Pa1Sb1,O10P2Pa1Sb1,general-oxide,False,,1200,800,1200,,6.29,6.0,3.0,3.5,8.0,5.5,[]
+La7Li12O48Tb5W8,La7Li12O48Tb5W8,rare-earth-oxide,False,intercalated ion,1000,900,1300,,5.75,6.0,6.5,7.5,8.0,6.66,colored; luminescent
+Al1Ni1Sb4Sn2Zr10,Al1Ni1Sb4Sn2Zr10,iron-alloy,True,3D,800,1200,1500,too low: 800C → suggest 1200-1500C,4.62,9.0,3.0,5.0,8.0,5.91,metallic/tension
+Bi8Co4Er14Tb6,Bi8Co4Er14Tb6,iron-alloy,True,3D,1200,1200,1500,,3.16,9.0,5.0,4.0,8.0,5.79,metallic/tension; luminescent
+Co1Fe3Zn1Zr1,Co1Fe3Zn1Zr1,iron-alloy,True,3D,1200,1200,1500,,5.12,9.0,3.0,4.0,8.0,5.88,metallic/tension
+Eu16Li4Ni4,Eu16Li4Ni4,iron-alloy,True,intercalated ion,800,1200,1500,too low: 800C → suggest 1200-1500C,3.25,6.0,5.0,5.5,8.0,5.44,luminescent
+Bi1Co4Er6Gd6Ru1,Bi1Co4Er6Gd6Ru1,iron-alloy,True,3D,1200,1200,1500,,2.92,6.0,5.0,6.5,8.0,5.5,luminescent
+Ca2Cd1In1Ni4,Ca2Cd1In1Ni4,iron-alloy,True,3D,800,1200,1500,too low: 800C → suggest 1200-1500C,4.19,9.0,3.0,4.0,8.0,5.65,metallic/tension
+Er8Ga14Sc12Si2,Er8Ga14Sc12Si2,metallic-other,True,3D,1200,800,1300,,3.96,9.0,5.0,4.5,8.0,6.06,metallic/tension; luminescent; phase-change
+La4Li1Si6Zn1,La4Li1Si6Zn1,metallic-other,True,intercalated ion,1200,800,1300,,5.88,9.0,3.0,5.0,8.0,6.22,metallic/tension
+Er1Nb2O8Y1,Er1Nb2O8Y1,rare-earth-oxide,False,,1000,900,1300,,5.71,6.0,6.5,3.5,8.0,6.05,colored; luminescent
+Na1Nb8Sb1Se16,Na1Nb8Sb1Se16,metallic-other,True,intercalated ion,800,800,1300,,5.06,9.0,3.0,6.0,8.0,6.16,metallic/tension
+Co4Er7Y5,Co4Er7Y5,iron-alloy,True,3D,100,1200,1500,too low: 100C → suggest 1200-1500C,3.53,9.0,5.0,3.5,8.0,5.81,metallic/tension; luminescent
+La1Nb6Nd1S12,La1Nb6Nd1S12,sulfide,False,,1000,150,800,too high: 1000C → suggest 150-800C,7.82,6.0,5.0,4.0,8.0,6.35,sulfide/lightweight
+Bi12Er8Tm3Y9,Bi12Er8Tm3Y9,metallic-other,True,3D,1200,800,1300,,4.48,9.0,5.0,4.0,8.0,6.12,metallic/tension; luminescent
+Be8Fe1V2W1,Be8Fe1V2W1,iron-alloy,True,intercalated ion,1000,1200,1500,,1.62,9.0,3.0,6.5,8.0,5.38,metallic/tension
+Pb5Sn1Zn2Zr10,Pb5Sn1Zn2Zr10,metallic-other,True,,400,800,1300,too low: 400C → suggest 800-1300C,5.54,6.0,3.0,3.0,8.0,5.24,[]
+Er3Pb16Pr17,Er3Pb16Pr17,metallic-other,True,3D,800,800,1300,,4.17,9.0,5.0,4.0,8.0,6.04,metallic/tension; luminescent
+Ca2La1O14Pr1Ru4,Ca2La1O14Pr1Ru4,rare-earth-oxide,False,intercalated ion,1200,900,1300,,5.04,9.0,6.5,8.0,8.0,7.16,metallic/tension; ceramic/compression; colored; luminescent
+Bi4Cd1La1Li1Tb1,Bi4Cd1La1Li1Tb1,metallic-other,True,intercalated ion,1000,800,1300,,4.44,9.0,5.0,8.0,8.0,6.71,metallic/tension; luminescent
+Bi4Li8Nd6Pr2Sn4,Bi4Li8Nd6Pr2Sn4,metallic-other,True,intercalated ion,800,800,1300,,5.25,9.0,5.0,7.5,8.0,6.84,metallic/tension; luminescent
+As4Co16Na2Nb6P8,As4Co16Na2Nb6P8,iron-alloy,True,intercalated ion,800,1200,1500,too low: 800C → suggest 1200-1500C,4.33,6.0,3.0,7.5,8.0,5.61,[]
+B4Be2Co9Tm2Y1,B4Be2Co9Tm2Y1,iron-alloy,True,intercalated ion,1200,1200,1500,,3.96,6.0,3.0,9.0,8.0,5.74,[]
+Er6In5Sb1Sc4,Er6In5Sb1Sc4,metallic-other,True,3D,1000,800,1300,,3.83,9.0,5.0,4.5,8.0,6.03,metallic/tension; luminescent
+Nd4Pr2Sn6Tm4,Nd4Pr2Sn6Tm4,metallic-other,True,3D,1200,800,1300,,4.72,9.0,5.0,4.0,8.0,6.18,metallic/tension; luminescent
+Bi4Nd10Pb2,Bi4Nd10Pb2,metallic-other,True,3D,800,800,1300,,5.0,9.0,5.0,3.0,8.0,6.1,metallic/tension
+Fe2Mo2O32P8Pb4,Fe2Mo2O32P8Pb4,iron-oxide,False,3D,950,800,1200,,6.48,6.0,4.5,5.0,8.0,6.07,colored
+La4Nd1Se4Si1,La4Nd1Se4Si1,metallic-other,True,3D,1200,800,1300,,5.15,9.0,5.0,3.0,8.0,6.14,metallic/tension
+B4Ca4Er2O16Tb2,B4Ca4Er2O16Tb2,rare-earth-oxide,False,intercalated ion,1200,900,1300,,5.8,6.0,10.0,8.0,8.0,7.45,ceramic/compression; translucent-potential; colored; luminescent
+Al12Rb4Se20,Al12Rb4Se20,aluminum-alloy,True,intercalated ion,800,660,900,,6.15,6.0,5.0,5.5,8.0,6.16,translucent-potential; electronic/functional
+Bi8Na16Ti2,Bi8Na16Ti2,metallic-other,True,intercalated ion,800,800,1300,,5.98,6.0,3.0,5.0,8.0,5.65,[]
+Cd2Er2In8Tb4,Cd2Er2In8Tb4,metallic-other,True,3D,800,800,1300,,3.59,9.0,5.0,5.0,8.0,6.05,metallic/tension; luminescent
+La8Pb6Pr2Se2,La8Pb6Pr2Se2,metallic-other,True,3D,900,800,1300,,4.83,6.0,5.0,4.5,8.0,5.68,luminescent
+Co5Y4,Co5Y4,iron-alloy,True,3D,800,1200,1500,too low: 800C → suggest 1200-1500C,4.42,9.0,3.0,4.0,8.0,5.7,metallic/tension
+Cu1In8Ni1Sr2,Cu1In8Ni1Sr2,copper-alloy,True,intercalated ion,800,950,1100,,4.83,9.0,3.0,5.5,8.0,6.03,metallic/tension
+B4Co7Ga2Nd1Ni2Tm2,B4Co7Ga2Nd1Ni2Tm2,iron-alloy,True,,1200,1200,1500,,4.29,6.0,5.0,6.0,8.0,5.77,phase-change
+Ca2Ga1Si2Zn5,Ca2Ga1Si2Zn5,metallic-other,True,intercalated ion,1200,800,1300,,5.9,9.0,3.0,5.5,8.0,6.3,metallic/tension; phase-change
+Cu1Er11Fe4Sn1Tm1,Cu1Er11Fe4Sn1Tm1,copper-alloy,True,3D,1000,950,1100,,4.5,6.0,5.0,6.0,8.0,5.82,luminescent
+Co4Er19Sb8Tb1,Co4Er19Sb8Tb1,iron-alloy,True,,1200,1200,1500,,3.16,6.0,5.0,4.0,8.0,5.19,luminescent
+Cu12Ge2Mo2Te16,Cu12Ge2Mo2Te16,copper-alloy,True,,800,950,1100,,3.07,6.0,3.0,5.0,8.0,4.92,[]
+Al1Ba6Ga1K6Sb8,Al1Ba6Ga1K6Sb8,aluminum-alloy,True,intercalated ion,800,660,900,,6.55,6.0,3.0,8.5,8.0,6.31,electronic/functional; phase-change
+Be4Pr3Si12Sm5,Be4Pr3Si12Sm5,metallic-other,True,intercalated ion,800,800,1300,,4.62,9.0,5.0,6.5,8.0,6.53,metallic/tension; luminescent
+Ba40Sb26,Ba40Sb26,metallic-other,True,intercalated ion,800,800,1300,,5.45,6.0,3.0,6.0,8.0,5.66,[]
+La1O14W2Y5,La1O14W2Y5,general-oxide,False,3D,1200,800,1200,,6.12,6.0,3.0,3.0,8.0,5.38,translucent-potential; electronic/functional
+Mo1Nb8Si16Ti11,Mo1Nb8Si16Ti11,metallic-other,True,3D,1200,800,1300,,5.9,9.0,3.0,3.0,8.0,5.92,metallic/tension
+As4Ce2Nb2Ni4,As4Ce2Nb2Ni4,iron-alloy,True,3D,1200,1200,1500,,3.0,9.0,3.0,4.5,8.0,5.42,metallic/tension
+Al8Ce1Ru8Tb5Y2,Al8Ce1Ru8Tb5Y2,aluminum-alloy,True,3D,1200,660,900,too high: 1200C → suggest 660-900C,4.59,9.0,5.0,6.0,8.0,6.45,metallic/tension; luminescent
+Co4Ga6Zn2,Co4Ga6Zn2,iron-alloy,True,3D,800,1200,1500,too low: 800C → suggest 1200-1500C,4.0,9.0,3.0,3.5,8.0,5.53,metallic/tension; phase-change
+Al3Eu1Ga1,Al3Eu1Ga1,aluminum-alloy,True,3D,660,660,900,,6.35,9.0,5.0,4.0,8.0,6.59,metallic/tension; luminescent; phase-change
+Er1Ga16Sc12Y7,Er1Ga16Sc12Y7,metallic-other,True,3D,1000,800,1300,,4.12,9.0,5.0,4.5,8.0,6.11,metallic/tension; luminescent; phase-change
+Co16P12Sc7Ti1,Co16P12Sc7Ti1,iron-alloy,True,3D,1200,1200,1500,,4.56,9.0,3.0,3.5,8.0,5.67,metallic/tension
+B6Be2Co12Er3Y1,B6Be2Co12Er3Y1,iron-alloy,True,intercalated ion,950,1200,1500,too low: 950C → suggest 1200-1500C,4.06,9.0,5.0,9.0,8.0,6.77,metallic/tension; luminescent
+Ga20Sc2Tb8Tm2,Ga20Sc2Tb8Tm2,metallic-other,True,3D,800,800,1300,,3.97,6.0,5.0,5.0,8.0,5.54,luminescent; phase-change
+C4Co4Mo1Ni4W15,C4Co4Mo1Ni4W15,iron-alloy,True,3D,1200,1200,1500,,4.43,9.0,3.0,5.0,8.0,5.86,metallic/tension
+Cu6Er3Sm1Zn28,Cu6Er3Sm1Zn28,copper-alloy,True,3D,1200,950,1100,,5.6,6.0,5.0,5.0,8.0,5.95,luminescent
+Li4P1Sc8Si15Tm8,Li4P1Sc8Si15Tm8,metallic-other,True,intercalated ion,800,800,1300,,5.08,9.0,3.0,8.0,8.0,6.47,metallic/tension
+Cu5Ni1Pa6Sn8,Cu5Ni1Pa6Sn8,copper-alloy,True,3D,1200,950,1100,,4.93,6.0,3.0,3.5,8.0,5.16,[]
+Ba1Cr1Fe1Mn2Sb12,Ba1Cr1Fe1Mn2Sb12,iron-alloy,True,intercalated ion,1000,1200,1500,,4.26,9.0,3.0,7.0,8.0,6.12,metallic/tension
+As16Ba8Ca4Na8,As16Ba8Ca4Na8,metallic-other,True,intercalated ion,800,800,1300,,4.0,6.0,3.0,5.5,8.0,5.22,electronic/functional
+Bi10Ce6Tm1Y1,Bi10Ce6Tm1Y1,metallic-other,True,3D,1200,800,1300,,4.92,9.0,3.0,4.5,8.0,5.9,metallic/tension
+Al3Fe1Mo1V11,Al3Fe1Mo1V11,iron-alloy,True,3D,1500,1200,1500,,4.38,9.0,3.0,3.0,8.0,5.54,metallic/tension
+Er1Ni1Ru3Sn6,Er1Ni1Ru3Sn6,iron-alloy,True,3D,1200,1200,1500,,3.11,9.0,5.0,4.0,8.0,5.78,metallic/tension; luminescent
+Nb4Se6Si2Te2,Nb4Se6Si2Te2,metallic-other,True,2D,800,800,1300,,4.57,6.0,3.0,5.5,8.0,5.37,[]
+C7Ce5W2,C7Ce5W2,metallic-other,True,3D,120,800,1300,too low: 120C → suggest 800-1300C,5.75,9.0,3.0,3.0,8.0,5.89,metallic/tension
+Bi11Er11Tm9Zn1,Bi11Er11Tm9Zn1,metallic-other,True,3D,900,800,1300,,4.09,9.0,5.0,4.0,8.0,6.02,metallic/tension; luminescent
+Ga5S1Sb1Zr10,Ga5S1Sb1Zr10,sulfide,False,3D,800,150,800,,7.23,9.0,3.0,3.5,8.0,6.33,metallic/tension; sulfide/lightweight; phase-change
+Cu18K1Nd1Si8,Cu18K1Nd1Si8,copper-alloy,True,intercalated ion,1100,950,1100,,6.05,9.0,5.0,5.0,8.0,6.66,metallic/tension
+In4Nd1Pr9Sn2,In4Nd1Pr9Sn2,metallic-other,True,3D,900,800,1300,,4.06,9.0,5.0,4.0,8.0,6.02,metallic/tension; luminescent
+B24Ru2Tm5W2Y3,B24Ru2Tm5W2Y3,metallic-other,True,3D,1200,800,1300,,5.04,6.0,3.0,6.0,8.0,5.56,[]
+B6Co12Mn2Tb4,B6Co12Mn2Tb4,iron-alloy,True,3D,1200,1200,1500,,4.38,9.0,5.0,4.5,8.0,6.17,metallic/tension; luminescent
+Li3Pb1Si2Tb2Tm1,Li3Pb1Si2Tb2Tm1,metallic-other,True,intercalated ion,800,800,1300,,5.08,6.0,5.0,8.0,8.0,6.27,luminescent
+Er1Ga3Sb3Sc9,Er1Ga3Sb3Sc9,metallic-other,True,3D,1000,800,1300,,3.92,6.0,5.0,4.5,8.0,5.46,luminescent; phase-change

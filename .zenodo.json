@@ -1,0 +1,21 @@
+{
+  "title": "Generative Matter V3: An open dataset of AI-generated synthetic materials for architecture",
+  "upload_type": "dataset",
+  "description": "<p>Approximately 120,000 candidate compositions derived from Google DeepMind's GNoME stable-materials corpus, each carrying an AI-drafted workshop recipe, scored and filtered for architectural use, and narrowed to the 245 materials published in the <i>Synthetic Types Atlas</i> (2026). Five layered, documented, machine-readable tables (JSONL + Parquet): materials, recipes, scores, architectural candidates, and the published atlas selection. Generated and curated by AI agents; conceived and directed by Daniel Koehler, State Academy of Art and Design Stuttgart. Supersedes the 2025 Generative-Matter-V2 architectural filter.</p><p><b>Note:</b> the data is a set of machine-generated hypotheses, not validated laboratory protocols. Predicted stability is not synthesizability; firing temperatures are best-estimates; safety flags are guidance, not safety data sheets.</p>",
+  "creators": [
+    { "name": "Koehler, Daniel", "affiliation": "State Academy of Art and Design Stuttgart" }
+  ],
+  "access_right": "open",
+  "license": "cc-by-nc-4.0",
+  "keywords": [
+    "materials informatics",
+    "generative design",
+    "architecture",
+    "GNoME",
+    "synthetic materials",
+    "computational materials science"
+  ],
+  "related_identifiers": [
+    { "relation": "isDerivedFrom", "identifier": "10.1038/s41586-023-06735-9", "scheme": "doi", "resource_type": "publication-article" }
+  ]
+}

@@ -1,0 +1,47 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+title: "Generative Matter V3: An open dataset of AI-generated synthetic materials for architecture"
+abstract: >-
+  Approximately 120,000 candidate compositions derived from Google DeepMind's GNoME
+  stable-materials corpus, each carrying an AI-drafted workshop recipe, scored and filtered
+  for architectural use, and narrowed to the 245 materials published in the Synthetic Types
+  Atlas (2026). Five layered, documented, machine-readable tables (JSONL + Parquet).
+type: dataset
+version: "1.0.0"
+date-released: "2026-06-26"
+license: CC-BY-NC-4.0
+authors:
+  - family-names: Koehler
+    given-names: Daniel
+    affiliation: "State Academy of Art and Design Stuttgart"
+url: "https://github.com/djrkohler/Generative-Matter-V3"
+repository-code: "https://github.com/djrkohler/Generative-Matter-V3"
+keywords:
+  - materials informatics
+  - generative design
+  - architecture
+  - GNoME
+  - synthetic materials
+  - computational materials science
+# doi: 10.5281/zenodo.XXXXXXX   # added automatically on the first Zenodo release
+references:
+  - type: article
+    title: "Scaling deep learning for materials discovery"
+    authors:
+      - family-names: Merchant
+        given-names: Amil
+    journal: "Nature"
+    volume: 624
+    year: 2023
+    doi: 10.1038/s41586-023-06735-9
+    notes: "GNoME — the upstream stable-materials corpus this dataset is derived from."
+  - type: conference-paper
+    title: "Generative Matter for Architecture: LLM-Guided Discovery and Low-Tech Prototyping of Resilient Synthetic Materials"
+    authors:
+      - family-names: Graubard
+        given-names: Catherine
+      - family-names: Koehler
+        given-names: Daniel
+    collection-title: "ACADIA 2025"
+    year: 2025
+    notes: "Founding paper of the project (Vanguard Paper Award)."
