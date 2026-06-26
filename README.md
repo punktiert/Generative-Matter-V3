@@ -144,6 +144,14 @@ Stuttgart), Studio *Synthetische Typen / Modelling Models*, Summer 2026.
 
 ---
 
+## Relation to previous versions
+
+This dataset supersedes **[Generative-Matter-V2](https://github.com/catgraubard/Generative-Matter-V2)**
+(Graubard, 2025), the first open architectural filtering of the GNoME database. V3 is
+independently regenerated from the project's own pipeline — re-scored, re-filtered, and
+re-written — and shares only the upstream GNoME source with V2, not its files. About 15 % of
+the early V2 recipes carried mismatched or implausible ingredients; those are corrected here.
+
 ## Citation
 
 If you use this dataset, please cite it (see [`CITATION.cff`](CITATION.cff)). A DOI will be
