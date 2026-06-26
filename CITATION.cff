@@ -23,7 +23,7 @@ keywords:
   - GNoME
   - synthetic materials
   - computational materials science
-# doi: 10.5281/zenodo.XXXXXXX   # added automatically on the first Zenodo release
+doi: 10.5281/zenodo.20929663
 references:
   - type: article
     title: "Scaling deep learning for materials discovery"

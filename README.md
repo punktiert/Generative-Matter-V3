@@ -1,7 +1,7 @@
 # Generative Matter V3
 
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](LICENSE)
-[![DOI](https://img.shields.io/badge/DOI-pending-blue.svg)](#citation)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20929663.svg)](https://doi.org/10.5281/zenodo.20929663)
 [![Data: JSONL + Parquet](https://img.shields.io/badge/data-JSONL%20%2B%20Parquet-brightgreen.svg)](data/)
 
 An open dataset of **AI-generated synthetic materials for architecture**.
@@ -151,13 +151,12 @@ the early V2 recipes carried mismatched or implausible ingredients; those are co
 
 ## Citation
 
-If you use this dataset, please cite it (see [`CITATION.cff`](CITATION.cff)). A DOI will be
-minted via Zenodo on first release; the badge above and the citation file will be updated
-with the real identifier at that point.
+If you use this dataset, please cite it (see [`CITATION.cff`](CITATION.cff)):
 
 ```
 Koehler, D. (2026). Generative Matter V3: An open dataset of AI-generated
-synthetic materials for architecture [Data set]. DOI: <pending>.
+synthetic materials for architecture [Data set]. Zenodo.
+https://doi.org/10.5281/zenodo.20929663
 ```
 
 This work builds directly on:
