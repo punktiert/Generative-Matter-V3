@@ -134,13 +134,10 @@ This dataset is a set of **machine-generated hypotheses**, not a validated handb
 ## The books
 
 The curated end of this dataset is published as a two-volume atlas, written, researched,
-designed, and visualised by AI agents and directed by **Prof. Dr. Daniel Koehler**:
+designed, and visualised by AI agents and directed by Daniel Koehler:
 
 - ***Synthetic Types Atlas — Volume I: Research Papers*** (the theory + 36 illustrated material studies)
 - ***Synthetic Types Atlas — Volume II: The Recipe Atlas*** (245 one-page recipes)
-
-State Academy of Art and Design Stuttgart (Staatliche Akademie der Bildenden Künste
-Stuttgart), Studio *Synthetische Typen / Modelling Models*, Summer 2026.
 
 ---
 
